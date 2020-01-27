@@ -14,7 +14,7 @@
     "debug": "^2.2.0",
     "each-async": "^1.1.1",
     "express": "^4.14.0",
-    "mkdirp": "^0.5.1",
+    "mkdirp": "^1.0.3",
     "node-di2": "^1.0.2",
     "socket.io": "^2.0.0",
     "gulp": "^3.9.1",
