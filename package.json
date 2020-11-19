@@ -16,7 +16,7 @@
     "express": "^4.14.0",
     "mkdirp": "^0.5.1",
     "node-di2": "^1.0.2",
-    "socket.io": "^2.0.0",
+    "socket.io": "^3.0.3",
     "gulp": "^3.9.1",
     "gulp-typescript": "^3.1.2",
     "snyk": "^1.30.1"
